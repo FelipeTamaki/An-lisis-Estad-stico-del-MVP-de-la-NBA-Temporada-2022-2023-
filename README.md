@@ -223,6 +223,30 @@ El proyecto ilustra cómo la **ciencia de datos puede aportar herramientas cuant
 
 ---
 
+# 🚀 Cómo usar este repositorio
+
+## 1️⃣ Clonar el repositorio
+Descarga el proyecto desde GitHub:
+git clone https://github.com/FelipeTamaki/Analisis-Estadistico-del-MVP-de-la-NBA-Temporada-2022-2023.git
+Luego entra en la carpeta del proyecto:
+cd Analisis-Estadistico-del-MVP-de-la-NBA-Temporada-2022-2023
+
+---
+
+## 2️⃣ Instalar dependencias
+Instala las librerías necesarias para ejecutar el análisis:
+pip install pandas numpy matplotlib seaborn openpyxl adjustText jupyter
+
+---
+
+## 3️⃣ Ejecutar el análisis
+
+Abre el notebook de Jupyter:
+jupyter notebook Analisis.ipynb
+Luego ejecuta todas las celdas para reproducir el análisis y generar los gráficos.
+
+---
+
 # Posibles Extensiones
 
 Este proyecto podría ampliarse incorporando:
